@@ -4,25 +4,16 @@ I'm a web developer based in Kanagawa, Japan. I recently completed a full-stack 
 ## 🚀 Tech Stack
 
 ### 🎨 Front-end
-<p>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/javascript/E34F26" alt="Stimulus.js" width="40" height="40"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🖥️ Back-end
-<p>
-  <img src="https://cdn.simpleicons.org/ruby/CC342D" alt="Ruby" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/rails/CC0000" alt="Ruby on Rails" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/rails/CC0000" alt="ActiveRecord" width="40" height="40"/>
-</p>
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 
 ### 🛠️ Tools & Deployment
-<p>
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/heroku/430098" alt="Heroku" width="40" height="40"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
