@@ -1,5 +1,7 @@
 <h3>Hi, I'm Patrick 👋</h3>
-I'm a web developer based in Kanagawa, Japan. I recently completed a full-stack web development bootcamp at Le Wagon Tokyo, learning Ruby on Rails, HTML, JavaScript, and CSS.
+I'm a web developer based in Kanagawa, Japan. I recently completed a full-stack web development bootcamp at Le Wagon Tokyo, where I learned to build web applications using Ruby on Rails, JavaScript, HTML, and CSS.
+Now I'm diving deeper into coding, building projects, and growing my skills one line at a time.
+Let’s connect and build cool stuff together!
 
 ## 🚀 Tech Stack
 
